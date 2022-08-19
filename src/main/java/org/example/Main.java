@@ -6,5 +6,6 @@ public class Main {
 
         Robot robot_one = new Robot();
         System.out.println(robot_one.name);
+        robot_one.Attack();
     }
 }
